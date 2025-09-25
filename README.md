@@ -27,5 +27,5 @@ Repositório oficial do grupo de pesquisa **BioLing (Biologia da Linguagem)**, f
 Se este repositório for útil à sua pesquisa, por favor cite conforme `CITATION.cff`.
 
 ## Licença
-- **Código**: MIT (`LICENSE`)  
-- **Textos e figuras**: CC BY 4.0 
+- **Código**: [MIT](LICENSE)
+- **Textos, figuras e relatórios**: [CC BY 4.0](LICENSE-CC-BY.md)  
