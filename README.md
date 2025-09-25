@@ -1,3 +1,6 @@
+
+![Status](https://img.shields.io/badge/Research-Active-brightgreen)  ![Focus](https://img.shields.io/badge/Focus-Linguistics-blue) ![Method](https://img.shields.io/badge/Approach-Generative-purple)  ![License](https://img.shields.io/badge/License-MIT-yellow)  ![License-Docs](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey) 
+
 # BioLing – Biologia da Linguagem (UFRJ)
 
 Repositório oficial do grupo de pesquisa **BioLing (Biologia da Linguagem)**, fundado em 1997 na UFRJ. Nosso objetivo central é **compreender como a linguagem está representada na mente/cérebro**, investigando:
