@@ -3,7 +3,7 @@
 
 # BioLing – Biologia da Linguagem (UFRJ)
 
-Repositório oficial do grupo de pesquisa **BioLing (Biologia da Linguagem)**, fundado em 1997 na UFRJ. Nosso objetivo central é **compreender como a linguagem está representada na mente/cérebro**, investigando:
+**BioLing (Biologia da Linguagem)**, fundado em 1997 na UFRJ. Nosso objetivo central é **compreender como a linguagem está representada na mente/cérebro**, investigando:
 
 - déficits linguísticos (p. ex., afasia, Alzheimer);
 - aquisição de primeira e segunda língua;
