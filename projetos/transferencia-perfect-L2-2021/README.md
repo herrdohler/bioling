@@ -50,6 +50,11 @@ A investigação também amplia os estudos já realizados sobre o fenômeno perf
 - `artigo.pdf` → versão completa do artigo  
 - `dados/respostas_tcc.csv` → dados brutos da pesquisa (Google Forms)  
 
+## 🧩 Contexto Acadêmico 
+Este estudo corresponde ao **Trabalho de Conclusão de Curso (TCC)** de graduação de Arthur Döhler Machado Fernandes em Letras – Português/Inglês (UGB).  
+
+A pesquisa foi avaliada com **nota máxima**, tendo sido reconhecida pelo rigor metodológico e pela relevância científica, e constituiu o ponto de partida para sua trajetória acadêmica posterior, incluindo colaborações em grupos de pesquisa e publicações adicionais sobre o aspecto perfect.
+
 ## 📜 Licença
 - **MIT License** para scripts e códigos  
 - **Creative Commons Attribution 4.0 International (CC BY 4.0)** para textos e materiais acadêmicos
