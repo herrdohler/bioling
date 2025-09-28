@@ -65,8 +65,20 @@ Results:
 Conclusion: both oral and written data revealed the same set of verbal forms. The high frequency of *Present Continuous* rules out the hypothesis of restrictions on non-canonical forms. Further studies should expand the corpus to confirm this pattern.  
 
 ## 📂 Estrutura do Projeto
-- `artigo.pdf` → versão em PDF publicada nos anais do simpósio  
-- `apresentacao.pptx` → slides da comunicação oral  
+- `artigo/` → publicações relacionadas  
+  - `artigo.pdf` → versão em PDF publicada nos anais do simpósio  
+  - `resumo_expandido.docx` → versão expandida submetida ao evento  
+
+- `dados/` → bases de dados e análises  
+  - `analise_dados.xlsx` → planilha com registros e contagens de ocorrências  
+
+- `material/` → documentos de bastidores  
+  - `diario_pesquisa.docx` → anotações e etapas do processo de pesquisa  
+
+- `apresentacao/` → comunicação oral  
+  - `apresentacao.pptx` → slides usados no simpósio  
+
+- `README.md` → documentação principal do projeto
 
 ## 📜 Licença
 - **MIT License** para scripts e códigos  
