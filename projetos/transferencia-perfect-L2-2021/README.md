@@ -46,7 +46,7 @@ Logo, este estudo contribui para uma maior compreensão do processo de aprendiza
 
 A investigação também amplia os estudos já realizados sobre o fenômeno perfect, caminhando na direção de trabalhos anteriores que propõem a **dissociação dos tipos de perfect na gramática mental dos falantes** e a **emergência primária do existencial**.
 
-## 📂 Estrutura do Repositório
+## 📂 Estrutura do Projeto
 - `artigo.pdf` → versão completa do artigo  
 - `dados/respostas_tcc.csv` → dados brutos da pesquisa (Google Forms)  
 
